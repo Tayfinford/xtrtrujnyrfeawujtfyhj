@@ -1,0 +1,4 @@
+token=NTMwNzcyNjU1NzI1MzQ2ODE3.DxEQMg.np1X-uVQzlpmHgYEVAcfCRRttsM
+owner=298398782356324352
+prefix="-"
+game = "Listenting to Hidden Humanity's Tunes!"
